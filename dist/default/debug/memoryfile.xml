@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/debug/temp_hum_oledb.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>16384</length>
+      <used>384</used>
+      <free>16000</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>134400</length>
+      <used>50673</used>
+      <free>83727</free>
+    </memory>
+  </executable>
+</project>
